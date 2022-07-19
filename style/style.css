@@ -248,7 +248,7 @@ margin: 24px 0 29px;
 
 
 }
-.item_title span {
+.item_title span, .item_title_one span {
     font-size: 28px;
 }
 
